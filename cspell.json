@@ -1,0 +1,43 @@
+{
+  "version": "0.1",
+  "language": "en",
+  "words": [
+    "typeof",
+    "cnpm",
+    "tyarn",
+    "globby",
+    "umijs",
+    "eslintignore",
+    "editorconfig",
+    "commitlint",
+    "prettierignore",
+    "prettierrc",
+    "commitlintrc",
+    "followtags",
+    "ycli",
+    "yunfly",
+    "yunflyjs",
+    "Keygrip",
+    "YUNFLYJS",
+    "xframe",
+    "sameorigin",
+    "hsts",
+    "autho",
+    "middlewares",
+    "Hsts",
+    "Xframe",
+    "succ",
+    "clickjacking",
+    "sameorigin",
+    "propkey"
+  ],
+  "ignorePaths": [
+    "package.json",
+    "node_modules/**",
+    "dist/**",
+    "**/*.snap",
+    "coverage/**",
+    ".eslintrc.js",
+    "cspell.json"
+  ]
+}
